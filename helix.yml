@@ -1,0 +1,8 @@
+
+database:
+  adapter: "mysqloo"
+  hostname: "localhost"
+  username: "root"
+  password: "Pr0rokPL"
+  database: "hl2rp"
+  port: 3306
